@@ -3,5 +3,6 @@ public class asd {
 
         int a = 0;
         System.out.println( a + 5);
+        System.out.println( a - 8);
     }
 }
