@@ -1,1 +1,30 @@
 Enes Bektaş - 22002401 - https://github.com/EnesBektas - Celeste
+
+PS C:\Users\enes\Desktop\CS102\Github\CS-102-Github-Tutorial\CS-102-Github-Tutorial> git log
+commit df1152abc05cf997fb7d3ed97f3f7ad99b3631a1 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 2fae2f5 260b5fc
+Author: EnesBektas <91607214+EnesBektas@users.noreply.github.com>
+Date:   Wed Sep 29 15:41:02 2021 +0300
+
+    Merge pull request #1 from EnesBektas/new_information
+
+    Adding my favorite video game into info.txt
+
+commit 260b5fc46338b23e6d8fab25b950e94d14d8115f (origin/new_information, new_information)
+Author: Enes Bektaş <enes.bektas@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:39:21 2021 +0300
+
+    Adding my favorite video game into info.txt
+
+commit 2fae2f5fa60b06ea1500a095a17d0cc4fdee9551
+Author: Enes Bektaş <enes.bektas@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:18:13 2021 +0300
+
+    Enes_Bektaş updated info.txt’
+
+commit a14c16535a15d792c933ff80a555273bd6884de3
+Author: EnesBektas <91607214+EnesBektas@users.noreply.github.com>
+Date:   Wed Sep 29 14:56:27 2021 +0300
+
+    Create README.md
+PS C:\Users\enes\Desktop\CS102\Github\CS-102-Github-Tutorial\CS-102-Github-Tutorial>
